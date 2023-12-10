@@ -22,7 +22,7 @@ export const projectsData = [
         category: 'Web Design',
         description: 'I created and designed the website you are currently viewing to display my portfolio and apply my web development skills.',
         tags: ['ReactJS'],
-        link: 'https://github.com/lauren2chow/lauren2chow.github.io',
+        link: 'https://github.com/lauren2chow/Personal-Website',
     },
     {
         id: 11,

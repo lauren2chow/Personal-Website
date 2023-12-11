@@ -53,9 +53,9 @@ export const NavBar = () => {
     <Router>
       <Navbar expand={isLargeScreen ? "lg" : ""} className={` ${scrolled ? "scrolled" : ""} ${isTogglerClicked ? "toggler-clicked" : ""}`}>
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="https://lauren2chow.github.io/Personal-Website/">
             <img src={logo} alt="logo"/>
-            <a className="logo-name" href="#home">Lauren Chow</a>
+            <a className="logo-name">Lauren Chow</a>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={handleToggleClick} />
           <Navbar.Collapse id="basic-navbar-nav">

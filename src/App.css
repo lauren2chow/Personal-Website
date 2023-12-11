@@ -446,6 +446,24 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-right: 0.08em solid #666;
 }
 
+
+@media (max-width: 520px) {
+  .banner h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+
+  .banner h2 {
+    font-size: 30px;
+    font-weight: 750;
+    letter-spacing: 0.8px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+  }
+
+}
+
 /************ ScrollToTopButton Css ************/
 
 .scroll-to-top {

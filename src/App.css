@@ -448,6 +448,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 @media (max-width: 520px) {
+  .banner {
+    padding: 160px 0 100px 0;
+  }
+
   .banner h1 {
     font-size: 45px;
     margin-bottom: 15px;

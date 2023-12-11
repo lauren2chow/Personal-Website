@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.18f1d379.css",
+    "main.css": "/Personal-Website/static/css/main.621eed6b.css",
     "main.js": "/Personal-Website/static/js/main.7acbafc5.js",
     "static/js/787.89d24622.chunk.js": "/Personal-Website/static/js/787.89d24622.chunk.js",
     "static/media/personal-website-old.png": "/Personal-Website/static/media/personal-website-old.aefff28b040cc33984e7.png",
@@ -15,12 +15,12 @@
     "static/media/github-white-cat.png": "/Personal-Website/static/media/github-white-cat.c10884b0baa5c9901dbe.png",
     "index.html": "/Personal-Website/index.html",
     "static/media/nav-icon-linkedin.svg": "/Personal-Website/static/media/nav-icon-linkedin.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.18f1d379.css.map": "/Personal-Website/static/css/main.18f1d379.css.map",
+    "main.621eed6b.css.map": "/Personal-Website/static/css/main.621eed6b.css.map",
     "main.7acbafc5.js.map": "/Personal-Website/static/js/main.7acbafc5.js.map",
     "787.89d24622.chunk.js.map": "/Personal-Website/static/js/787.89d24622.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f1d379.css",
+    "static/css/main.621eed6b.css",
     "static/js/main.7acbafc5.js"
   ]
 }

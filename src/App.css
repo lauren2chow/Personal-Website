@@ -491,7 +491,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Skills Css ************/
 
 .skills {
-  padding: 150px 0px 50px 0px;
+  padding: 160px 0px 50px 0px;
   position: relative;
   background: linear-gradient(to bottom, #171717, #1d1d1d);
 }
@@ -566,7 +566,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding-top: 80px;
+  padding-top: 90px;
 }
 
 .projects h2 {
@@ -758,7 +758,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   flex-wrap: wrap;
   justify-content: center;
   max-width: 1116px;
-  padding-bottom: 150px;
+  padding-bottom: 0px;
 }
 
 .portfolio-item {
@@ -957,7 +957,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border: 1px solid #6f6f6f;
   text-align: center;
   padding: 20px 20px;
-  margin-top: -150px;
+  margin-top: 30px;
 }
 
 .education .row{

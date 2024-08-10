@@ -40,7 +40,7 @@ export const projectsData = [
         image: Project12,
         title: 'ClockOut Assistant',
         category: 'Web Design',
-        description: 'ClockOut Assistant is a React application designed to help users calculate the end time of their work shift based on the start time and the number of hours worked. The application also features a countdown timer that alerts users when their shift ends.',
+        description: 'React application designed to help users calculate the end time of their work shift based on the start time and the number of hours worked. The application also features a countdown timer that alerts users when their shift ends.',
         tags: ['ReactJS'],
         link: 'https://github.com/lauren2chow/ClockOut-Assistant',
     },

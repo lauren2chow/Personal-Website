@@ -1,8 +1,10 @@
 import Project1 from '../img/train-scheduler.png';
 import Project10 from '../img/personal-website.png';
 import Project11 from '../img/personal-website-old.png';
+import Project12 from '../img/clock.png';
 import Project20 from '../img/Least-cost-map.png';
 import Project21 from '../img/terrain-analysis.png';
+
 
 export const projectsData = [
     /*Image size needs to be 16:9*/
@@ -32,6 +34,15 @@ export const projectsData = [
         description: 'My old computer science personal website I created and designed that displayed my portfolio at the time.',
         tags: ['HTML', 'CSS', 'JavaScript'],
         link: 'https://github.com/lauren2chow/lauren2chow.github.io',
+    },
+    {
+        id: 11,
+        image: Project12,
+        title: 'ClockOut Assistant',
+        category: 'Web Design',
+        description: 'ClockOut Assistant is a React application designed to help users calculate the end time of their work shift based on the start time and the number of hours worked. The application also features a countdown timer that alerts users when their shift ends.',
+        tags: ['ReactJS'],
+        link: 'https://github.com/lauren2chow/ClockOut-Assistant',
     },
 
 ]
